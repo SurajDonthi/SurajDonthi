@@ -6,6 +6,7 @@
 
 - I'm a Machine Learning Engineer with focus on solving Computer Vision Tasks😎
 - Apart from that, I also work on Data Science projects!🧪🛢
+- *Author* of the course **[Dealing with Missing Data in Python](https://www.datacamp.com/courses/dealing-with-missing-data-in-python)** on Datacamp. [4.5⭐, > 4500 subscribers]
 
 <br>
 
@@ -27,18 +28,3 @@
       5. Activation Functions (Open sourcing soon ...)
       6. Generalised Layer Neural Network (Open sourcing soon ...)
   - Paper Reviews: (Open sourcing soon ...)
-
-<!--
-**SurajDonthi/SurajDonthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
