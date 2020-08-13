@@ -11,9 +11,8 @@
 <br>
 
 # Check out some of my cool projects!😃
-- End-to-End Learning for Self-Driving Cars (Updating ...)
 - MTMCT - Multi-target Multi-camera Tracking (Adding soon ...)
-- Segmentation Zoo (Open sourcing soon ...)
+- End-to-End Learning for Self-Driving Cars [3d Model](Updating ...)
 
 <br>
 
