@@ -11,8 +11,9 @@
 <br>
 
 # Check out some of my cool projects!😃
-- MTMCT - Multi-target Multi-camera Tracking (Adding soon ...)
-- End-to-End Learning for Self-Driving Cars [3d Model](Updating ...)
+- [ ] MTMCT - Multi-target Multi-camera Tracking (Adding soon ...)
+- [ ] End-to-End Learning for Self-Driving Cars [3d Model](Updating ...)
+- [ ] Generative Models for Tabular Data
 
 <br>
 
