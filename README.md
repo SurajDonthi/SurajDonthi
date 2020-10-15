@@ -11,7 +11,7 @@
 <br>
 
 # Check out some of my cool projects!😃
-- [ ] MTMCT - Multi-target Multi-camera Tracking (Adding soon ...)
+- [x] [MTMCT - Multi-target Multi-camera Tracking](https://github.com/SurajDonthi/MTMCT-Person-Re-Identification)
 - [ ] End-to-End Learning for Self-Driving Cars [3d Model](Updating ...)
 - [ ] Generative Models for Tabular Data
 
