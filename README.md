@@ -5,7 +5,7 @@
 # Find all about me in here! 🔥👨‍💻📊
 
 - I'm a Machine Learning Engineer with focus on solving Computer Vision Tasks😎
-- Apart from that, I also work on Data Science projects!🧪🛢
+- Apart from that, I also work on a lot of Data Science projects!🧪🛢
 - *Author* of the course **[Dealing with Missing Data in Python](https://www.datacamp.com/courses/dealing-with-missing-data-in-python)** on Datacamp. [4.48⭐, > 4500 subscribers]
 
 <br>
