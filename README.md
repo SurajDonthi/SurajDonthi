@@ -26,6 +26,6 @@
       3. Logistic Regression
       4. 2 Layer Neural Network (Open sourcing soon ...)
       5. Activation Functions (Open sourcing soon ...)
-      6. Optimizers
+      6. Optimizers (Open sourcing soon ...)
       7. Generalised Layer Neural Network (Open sourcing soon ...)
   - Paper Reviews: (Open sourcing soon ...)
