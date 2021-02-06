@@ -12,7 +12,7 @@
 # Check out some of my cool projects!😃
 - [x] [MTMCT - Multi-target Multi-camera Tracking](https://github.com/SurajDonthi/MTMCT-Person-Re-Identification)
 - [ ] [End-to-End Learning for Self-Driving Cars](https://github.com/SurajDonthi/End-to-End-Model-for-Self-Driving-Cars) [3d Model](Updating ...)
-- [ ] Generative Models for Tabular Data
+- [ ] A Flexible Framework for Generative Models
 
 <br>
 
