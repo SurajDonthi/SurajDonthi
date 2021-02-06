@@ -10,9 +10,9 @@
 <br>
 
 # Check out some of my cool projects!😃
-- [x] [MTMCT - Multi-target Multi-camera Tracking](https://github.com/SurajDonthi/MTMCT-Person-Re-Identification)
-- [ ] [End-to-End Learning for Self-Driving Cars](https://github.com/SurajDonthi/End-to-End-Model-for-Self-Driving-Cars) [3d Model](Updating ...)
-- [ ] A Flexible Framework for Generative Models
+- [MTMCT - Multi-target Multi-camera Tracking](https://github.com/SurajDonthi/MTMCT-Person-Re-Identification)
+- [End-to-End Learning for Self-Driving Cars](https://github.com/SurajDonthi/End-to-End-Model-for-Self-Driving-Cars) [3d Model](Updating ...)
+- [A Flexible Framework for Generative Models](https://github.com/SurajDonthi/GAN-Models)
 
 <br>
 
