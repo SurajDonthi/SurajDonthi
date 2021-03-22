@@ -18,7 +18,7 @@
 
 # I blog too!✍
 
-- Check out [these articles](https://medium.com/@surajdonthi95)!
+- Check out [my Medium blog](https://medium.com/@surajdonthi95)!
   - Building Neural Networks from scratch with Numpy series:
       1. Introduction
       2. Linear Regression
