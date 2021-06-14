@@ -11,20 +11,17 @@
 
 # Check out some of my cool projects!😃
 - [MTMCT - Multi-target Multi-camera Tracking](https://github.com/SurajDonthi/MTMCT-Person-Re-Identification)
-- [End-to-End Learning for Self-Driving Cars](https://github.com/SurajDonthi/End-to-End-Model-for-Self-Driving-Cars) [3d Model](Updating ...)
+- [Conformer - State of the Model on Speech Recognition]()
 - [A Flexible Framework for Generative Models](https://github.com/SurajDonthi/GAN-Models)
+<!-- - [End-to-End Learning for Self-Driving Cars](https://github.com/SurajDonthi/End-to-End-Model-for-Self-Driving-Cars) [3d Model](Updating ...) -->
+<!-- - [Aspect Based Sentiment Analysis]() -->
 
 <br>
 
 # I blog too!✍
 
 - Check out [my Medium blog](https://medium.com/@surajdonthi95)!
-  - Building Neural Networks from scratch with Numpy series:
-      1. Introduction
-      2. Linear Regression
-      3. Logistic Regression
-      4. 2-Layer (+ Generalized) Neural Network (Adding soon ...)
-      5. Activation Functions (Adding soon ...)
-      6. Optimizers (Adding soon ...)
-      7. Generalised Layer Neural Network (Open sourcing soon ...)
-  - Paper Reviews: (Open sourcing soon ...)
+  - Building Neural Networks from scratch with Numpy series
+  - [Support Vector Machines, Dual Formulation, Quadratic Programming & Sequential Minimal Optimization](https://towardsdatascience.com/support-vector-machines-dual-formulation-quadratic-programming-sequential-minimal-optimization-57f4387ce4dd?source=your_stories_page-------------------------------------)
+  - My Paper Reviews:
+  
