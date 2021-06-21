@@ -23,5 +23,5 @@
 - Check out [my Medium blog](https://medium.com/@surajdonthi95)!
   - Building Neural Networks from scratch with Numpy series
   - [Support Vector Machines, Dual Formulation, Quadratic Programming & Sequential Minimal Optimization](https://towardsdatascience.com/support-vector-machines-dual-formulation-quadratic-programming-sequential-minimal-optimization-57f4387ce4dd?source=your_stories_page-------------------------------------)
-  - [My Paper Reviews]()
+  - [A Review of the best of AI papers from history!](https://github.com/SurajDonthi/A-Review-of-AI-Classics)
   
