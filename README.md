@@ -5,7 +5,7 @@
 # Find all about me in here! 🔥👨‍💻📊
 
 - I'm a Deep Learning & Machine Learning Practitioner with experience in building solutions for Computer Vision, NLP & Data Science systems!😎
-- *Author* of the course **[Dealing with Missing Data in Python](https://www.datacamp.com/courses/dealing-with-missing-data-in-python)** on Datacamp. [4.48⭐, > 8000 subscribers]
+- *Author* of the course **[Dealing with Missing Data in Python](https://www.datacamp.com/courses/dealing-with-missing-data-in-python)** on Datacamp. [4.48⭐, > 9000 subscribers]
 
 <br>
 
