@@ -18,7 +18,7 @@
 
 <br>
 
-# I blog too!✍
+# Checkout my blog!✍
 
 - Check out [my Medium blog](https://medium.com/@surajdonthi95)!
   - Building Neural Networks from scratch with Numpy series
